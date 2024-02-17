@@ -22,7 +22,7 @@ const Nav = () => {
         </a>
       </div>
       <div className="items-center gap-4 flex ">
-        <div className="w-[400px] flex items-center rounded-lg bg-black p-2">
+        <div className="w-[300px] flex items-center rounded-lg bg-black p-2">
          
           <input
           onChange={(e)=>handleInput(e)}
