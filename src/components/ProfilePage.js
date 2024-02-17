@@ -58,8 +58,8 @@ function ProfilePage() {
 
   }else{
     return(
-      <div>
-        <h1>No Repo found with the username</h1>
+      <div className='flex justify-center items-center'>
+        <h1 className='font bold text-red-700'>No Repo found with the username</h1>
       </div>
     )
   }
