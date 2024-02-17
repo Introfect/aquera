@@ -16,8 +16,6 @@ Clone the project
 
 Go to the project directory
 
-open to terminals and navigate inside client and server folders seperately 
-
 
 Install dependencies
 
